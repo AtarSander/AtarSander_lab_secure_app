@@ -1,0 +1,5 @@
+target/ 
+gitleaks.json 
+mixeway_sast_report.json 
+spotbugs-result.json
+*.log
